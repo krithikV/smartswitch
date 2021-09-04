@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "793640626616",
+    "firebase_url": "https://smartswitchiot-8976b-default-rtdb.firebaseio.com",
+    "project_id": "smartswitchiot-8976b",
+    "storage_bucket": "smartswitchiot-8976b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:793640626616:android:004f80a9d2e24ccfc1074d",
+        "android_client_info": {
+          "package_name": "com.krithik.smartswitch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "793640626616-hesuks67sv9lbch0674umr0v57gmvruc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHrrkzR7MffefPSPKl2aOryv8h9uVnHKY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "793640626616-hesuks67sv9lbch0674umr0v57gmvruc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
